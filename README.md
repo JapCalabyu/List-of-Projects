@@ -1,6 +1,6 @@
-# 🗺 Katie's Portfolio
+# 🗺 Jasper's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio, where I present a curated summary of projects that showcase my skills in data analysis, cleaning, and visualization.
 
 ## 📚 Table of Contents
 - [Data Analyst](#DataAnalyst)
@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Data Analyst
 
 | Project | Date | Tools/Technologies | Description |
-| ------- | ----- | ------------------ | ----------- |
+| pogi | ----- | ------------------ | ----------- |
 |         |       |                    |             |
 |         |       |                    |             |
 |         |       |                    |             |
