@@ -23,7 +23,7 @@ Welcome to my data portfolio, where I present a curated summary of projects that
 | Project | Date | Tools/Technologies | Description |
 | ------- | ----- | ------------------ | ----------- |
 |         |       |                    |             |
-|         |       |                    |             |
+|   ako      |       |                    |             |
 |         |       |                    |             |
 
 ***
