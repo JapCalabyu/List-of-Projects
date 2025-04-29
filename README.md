@@ -1,6 +1,6 @@
 # 💻 Jasper's Portfolio
 
-Welcome to my data portfolio — a collection of projects that highlight my transition into the data field and showcase my skills in analysis, cleaning, and visualization.
+📊 Welcome to my data portfolio : A collection of projects that highlight my transition into the data field and showcase my skills in analysis, cleaning, and visualization.
 
 ## 📖 Table of Contents
 - [Data Analyst](#DataAnalyst)
