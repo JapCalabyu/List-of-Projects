@@ -10,10 +10,11 @@ Welcome to my data portfolio, where I present a curated summary of projects that
 # Data Analyst
 
 | Project | Date | Tools/Technologies | Description |
-| pogi | ----- | ------------------ | ----------- |
+| ------- | ----- | ------------------ | ----------- |
+|  pogi       |       |                    |             |
 |         |       |                    |             |
 |         |       |                    |             |
-|         |       |                    |             |
+
 
 ***
 
